@@ -1,0 +1,7 @@
+tccodes
+   Black
+   Pantone 186 Red (C-11, M-83, Y-58, K-1) (R-216, G-80, B-91)
+
+tccyber
+   Black
+   Process Cyan (C-100, M-0, Y-0, K-0) (R-0, G-173, B-239)
